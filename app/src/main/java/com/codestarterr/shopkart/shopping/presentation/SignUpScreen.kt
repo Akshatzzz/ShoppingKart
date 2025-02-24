@@ -1,7 +1,6 @@
 package com.codestarterr.shopkart.shopping.presentation
 
 import android.content.Context
-import android.graphics.Color
 import android.widget.Toast
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
@@ -40,8 +39,8 @@ import androidx.compose.ui.text.input.PasswordVisualTransformation
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.codestarterr.shopkart.shopping.presentation.utils.CustomTextField
 import com.codestarterr.shopkart.R
+import com.codestarterr.shopkart.shopping.presentation.utils.CustomTextField
 
 @Preview(showSystemUi = true)
 @Composable
